@@ -87,9 +87,6 @@ Once you connect, you can subscribe to different data streams. The following met
 
  ### Examples:
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 ```js
 import WebSocket from 'ws';
 

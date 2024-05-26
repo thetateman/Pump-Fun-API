@@ -32,10 +32,6 @@ If your parameters are valid, you will receive a serialized transaction in respo
 ### Examples
 
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
-
 ```js
 import { VersionedTransaction, Connection, Keypair } from '@solana/web3.js';
 import bs58 from "bs58";

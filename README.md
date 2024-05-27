@@ -6,9 +6,9 @@ PumpPortal is designed to be easy to use, so you can start building in minutes: 
 
 Our Data API is free (subject to rate limits). Read the next section to get started building right away!
 
-Our Trading API is gated by an API key and charges a 0.5% fee per trade.
+Our Trading API is gated by an API key and charges a 0.5% fee per trade. API keys can be created at [PumpPortal.fun](https://pumpportal.fun)
 
-We're excited to see your trading bots, websites, or any other applications you integrate with Pump.fun! Connect with us in Telegram to ask questions or show off what you're building. If you build something cool we might feature your project on this page!
+We're excited to see your trading bots, websites, or any other applications you integrate with Pump.fun! Connect with us in [Telegram](https://t.me/PumpPortalAPI) to ask questions or show off what you're building. If you build something cool we might feature your project on this page!
 
 # Local Trading API Docs
 
